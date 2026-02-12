@@ -41,8 +41,6 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-For more details, refer to [docs/requirements.md](docs/requirements.md).
-
 ## 📂 Repository Structure
 ```
 data-warehouse-project/
